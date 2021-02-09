@@ -3,7 +3,7 @@ Tema:Web Membuat Artikel/Cerita
 
 Linkweb: https://rifkiecobsduls.000webhostapp.com/
 
-link GITHUB:https://github.com/RifkieNurdianAdiNugroho/Rifkie.github.io
+link GITHUB:https://github.com/RifkieNurdianAdiNugroho/RifkieNurdian-github.io
 
-username:yushintia
+username:buyushintia
 pass:12345
